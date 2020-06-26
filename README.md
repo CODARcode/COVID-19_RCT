@@ -43,3 +43,11 @@ The main script requires to be placed at a writable space before running. Output
 $ python benchmark_mixed.py
 $ python benchmark_gpu.py
 ```
+
+## Performance (single-task baseline numbers on Summit, unit: second)
+
+
+| Task Type   | Signle Task TTX | Multiple Task TTX | Description |
+| ----------- | --------------- | ----------------- | ----------- |
+| CPU         | 420             | xxx               |             |
+| GPU         | 450             | xxx               |             |
