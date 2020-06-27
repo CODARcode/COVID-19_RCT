@@ -44,9 +44,12 @@ $ python benchmark_mixed.py
 $ python benchmark_gpu.py
 ```
 
-## Performance (Avg time to completion on Summit, unit: minute)
+## Performance
+
+Use average time to completion (TTX) on Summit, unit: minute
 
 Multiple Task TTX (CPU): 41 CPU tasks on 1 node
+
 Multiple Task TTX (GPU): 6 GPU tasks on 1 node
 
 | Task Type   | Signle Task TTX | Multiple Task TTX | Bug Description |
