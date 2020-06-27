@@ -1,4 +1,4 @@
-# Accelerating Therapeutic Discovery against COVID-19 using Heterogeneous Tasks
+# Accelerating Therapeutic Discovery against COVID-19 using Heterogeneous Tasks in RADICAL EnTK
 
 ## Workflow Description
 
