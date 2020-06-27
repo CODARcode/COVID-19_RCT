@@ -48,11 +48,12 @@ $ python benchmark_gpu.py
 
 Use average time to completion (TTX) on Summit, unit: minute
 
-Multiple Task TTX (CPU): 41 CPU tasks on 1 node
+Single Task TTX: e.g., 1 CPU task and/or 1 GPU task on 1 node
 
-Multiple Task TTX (GPU): 6 GPU tasks on 1 node
+Multiple Task TTX: e.g., 41 CPU tasks and 6 GPU tasks on 1 node, 100 CPU tasks and 50 GPU tasks on 10 nodes
 
 | Task Type   | Signle Task TTX | Multiple Task TTX | Bug Description |
 | ----------- | --------------- | ----------------- | --------------- |
 | CPU         | 6.9             | 7.0               | N/A             |
 | GPU         | 13.1            | 57.2              | One task finishes much later than others |
+| CPU + GPU   |                 |                   | One GPU task finishes much later than other GPU tasks |
