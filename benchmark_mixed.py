@@ -73,7 +73,7 @@ class BENCHMARK(object):
                 t.gpu_reqs = {
                     'processes': 1,
                     'process_type': None,
-                    'threads_per_process': 4,
+                    'threads_per_process': 1,#4
                     'thread_type': 'CUDA'
                 }
 

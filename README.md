@@ -46,7 +46,7 @@ $ python benchmark_gpu.py
 
 ## Performance
 
-Use average time to completion (TTX) on Summit, unit: minute
+Use average time to completion (TTX) of workflows running on Summit, unit: minute
 
 Single Task TTX: e.g., 1 CPU task and/or 1 GPU task on 1 node
 
@@ -55,5 +55,5 @@ Multiple Task TTX: e.g., 41 CPU tasks and 6 GPU tasks on 1 node; 100 CPU tasks a
 | Task Type   | Signle Task TTX | Multiple Task TTX | Bug Description |
 | ----------- | --------------- | ----------------- | --------------- |
 | CPU         | 6.9             | 7.0               | N/A             |
-| GPU         | 13.1            | 57.2              | One task finishes much later than others |
-| CPU + GPU   | 13.3            | 61.1              | One GPU task finishes much later than other GPU tasks |
+| GPU         | 12.8            | 60.7              | Some tasks finish much later than others |
+| CPU + GPU   | 13.1            | 61.1              | Some GPU tasks finish much later than other GPU tasks, CPU OK |

@@ -24,9 +24,7 @@ class BENCHMARK(object):
         gromacs_example_path = '/gpfs/alpine/world-shared/csc393/hrlee/'
 
         for i in range(1, task_count + 1):
-
             t = entk.Task()
-
             grompp_bin = (gromacs_path + ' grompp -f ' + 
                 (' %s/gromacs_example/inp_files/grompp.mdp' % gromacs_example_path) +
                  ' -c ' +
@@ -47,7 +45,7 @@ class BENCHMARK(object):
             t.gpu_reqs = {
                 'processes': 1,
                 'process_type': None,
-                'threads_per_process': 4,
+                'threads_per_process': 1,#4
                 'thread_type': 'CUDA'
             }
 
