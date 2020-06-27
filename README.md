@@ -44,10 +44,12 @@ $ python benchmark_mixed.py
 $ python benchmark_gpu.py
 ```
 
-## Performance (single-task baseline numbers on Summit, unit: second)
+## Performance (Avg time to completion on Summit, unit: minute)
 
+Multiple Task TTX (CPU): 41 CPU tasks on 1 node
+Multiple Task TTX (GPU): 6 GPU tasks on 1 node
 
-| Task Type   | Signle Task TTX | Multiple Task TTX | Description |
-| ----------- | --------------- | ----------------- | ----------- |
-| CPU         | 420             | xxx               |             |
-| GPU         | 450             | xxx               |             |
+| Task Type   | Signle Task TTX | Multiple Task TTX | Bug Description |
+| ----------- | --------------- | ----------------- | --------------- |
+| CPU         | 6.9             | 7.0               | N/A             |
+| GPU         | 13.1            | 57.2              | One task finishes much later than others |
