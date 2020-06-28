@@ -56,4 +56,4 @@ Multiple Task TTX: e.g., 41 CPU tasks and 6 GPU tasks on 1 node; 100 CPU tasks a
 | ----------- | --------------- | ----------------- | --------------- |
 | CPU         | 6.9             | 7.0               | N/A             |
 | GPU         | 12.8            | 60.7              | Some tasks finish much later than others |
-| CPU + GPU   | 13.1            | 61.1              | Some GPU tasks run much slower, CPU tasks normal |
+| CPU + GPU   | 13.1            | 59.0              | Some GPU tasks run much slower, CPU tasks normal |
