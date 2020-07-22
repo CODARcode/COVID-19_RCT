@@ -1,0 +1,17 @@
+{
+    "bulk_size": 0,
+    "channel": "umgr_scheduling_queue",
+    "cmgr": "cmgr.0002",
+    "heartbeat": {
+        "addr_pub": "tcp://10.134.0.33:33921",
+        "addr_sub": "tcp://10.134.0.33:44347",
+        "interval": 1.0,
+        "timeout": 60.0
+    },
+    "kind": "queue",
+    "log_level": "error",
+    "path": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login3.litan.018460.0010",
+    "sid": "re.session.login3.litan.018460.0010",
+    "stall_hwm": 0,
+    "uid": "umgr_scheduling_queue"
+}

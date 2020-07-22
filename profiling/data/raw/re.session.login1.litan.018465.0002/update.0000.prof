@@ -1,0 +1,40 @@
+#time,event,comp,thread,uid,state,msg
+1595419660.0073049,sync_abs,update.0000,MainThread,,,login1.summit.olcf.ornl.gov:10.134.0.31:1595419660.0065577:1595419660.0868187:ntp
+1595419660.0095665,comp_start,update.0000,MainThread,update.0000,,
+#time,event,comp,thread,uid,state,msg
+1595419660.8455241,sync_abs,update.0000,MainThread,,,login1.summit.olcf.ornl.gov:10.134.0.31:1595419660.8453946:1595419660.9256556:ntp
+1595419660.8455739,init1,update.0000,MainThread,update.0000,,/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login1.litan.018465.0002
+1595419661.2471488,component_init,update.0000,Thread-1,,,
+1595419671.8515060,update_pushed,update.0000,Thread-3,,,bulk size: 1
+1595419673.2994184,update_pushed,update.0000,Thread-4,,,bulk size: 1
+1595419684.2620668,update_pushed,update.0000,Thread-3,,,bulk size: 1
+1595420863.8791735,update_pushed,update.0000,Thread-3,,,bulk size: 1
+1595421376.7289538,update_pushed,update.0000,Thread-3,,,bulk size: 1050
+1595421377.2050130,update_pushed,update.0000,Thread-3,,,bulk size: 1024
+1595421380.5875459,update_pushed,update.0000,Thread-3,,,bulk size: 1024
+1595421380.9822164,update_pushed,update.0000,Thread-3,,,bulk size: 1076
+1595421390.5132585,update_pushed,update.0000,Thread-3,,,bulk size: 1024
+1595421391.0909553,update_pushed,update.0000,Thread-3,,,bulk size: 52
+1595421434.7395627,update_pushed,update.0000,Thread-3,,,bulk size: 28
+1595421435.8389573,update_pushed,update.0000,Thread-4,,,bulk size: 28
+1595421447.6434979,update_pushed,update.0000,Thread-3,,,bulk size: 31
+1595421448.9470813,update_pushed,update.0000,Thread-4,,,bulk size: 31
+1595421849.6299551,update_pushed,update.0000,Thread-3,,,bulk size: 2
+1595421850.7541549,update_pushed,update.0000,Thread-3,,,bulk size: 5
+1595421852.1781251,update_pushed,update.0000,Thread-3,,,bulk size: 9
+1595421853.4772778,update_pushed,update.0000,Thread-4,,,bulk size: 6
+1595421854.9236093,update_pushed,update.0000,Thread-3,,,bulk size: 8
+1595421856.5226245,update_pushed,update.0000,Thread-4,,,bulk size: 8
+1595421858.5113695,update_pushed,update.0000,Thread-3,,,bulk size: 14
+1595421859.5708418,update_pushed,update.0000,Thread-4,,,bulk size: 14
+1595421864.9995117,update_pushed,update.0000,Thread-3,,,bulk size: 76
+1595421866.6896627,update_pushed,update.0000,Thread-4,,,bulk size: 76
+1595421898.7786679,update_pushed,update.0000,Thread-3,,,bulk size: 79
+1595421899.9345515,update_pushed,update.0000,Thread-4,,,bulk size: 79
+1595421934.9240720,update_pushed,update.0000,Thread-3,,,bulk size: 371
+1595421936.3746300,update_pushed,update.0000,Thread-4,,,bulk size: 371
+1595422102.1966019,update_pushed,update.0000,Thread-3,,,bulk size: 432
+1595422103.9555571,update_pushed,update.0000,Thread-4,,,bulk size: 432
+1595422329.4546096,update_pushed,update.0000,Thread-3,,,bulk size: 1
+1595422391.4764717,component_final,update.0000,Thread-5,,,
+1595422391.4765160,END,update.0000,Thread-5,,,

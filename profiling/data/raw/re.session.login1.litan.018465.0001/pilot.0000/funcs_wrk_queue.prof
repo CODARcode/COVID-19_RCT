@@ -1,0 +1,6 @@
+#time,event,comp,thread,uid,state,msg
+1595418250.6664231,sync_abs,funcs_wrk_queue,MainThread,,,batch3.summit.olcf.ornl.gov:10.134.0.43:1595418250.6661003:1595418251.1428192:ntp
+1595418250.6722903,bridge_start,funcs_wrk_queue,MainThread,funcs_wrk_queue,,
+#time,event,comp,thread,uid,state,msg
+1595418250.6781857,sync_abs,funcs_wrk_queue,MainThread,,,batch3.summit.olcf.ornl.gov:10.134.0.43:1595418250.6780682:1595418251.154787:ntp
+1595418250.6782255,init3,funcs_wrk_queue,MainThread,funcs_wrk_queue,,/gpfs/alpine/med110/scratch/litan/radical.pilot.sandbox/re.session.login1.litan.018465.0001/pilot.0000
