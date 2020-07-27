@@ -1,5 +1,0 @@
-#time,event,comp,thread,uid,state,msg
-1595420835.5631166,sync_abs,cmgr.0000.hb,MainThread,,,batch2.summit.olcf.ornl.gov:10.134.0.42:1595420835.5627577:1595420835.5787237:ntp
-1595420835.5631680,init3,cmgr.0000.hb,MainThread,cmgr.0000.hb,,/gpfs/alpine/med110/scratch/litan/radical.pilot.sandbox/re.session.login1.litan.018465.0002/pilot.0000
-1595422326.5418055,term,cmgr.0000.hb,Thread-7,cmgr.0000.hb,,
-1595422327.4038401,term,cmgr.0000.hb,Thread-6,cmgr.0000.hb,,

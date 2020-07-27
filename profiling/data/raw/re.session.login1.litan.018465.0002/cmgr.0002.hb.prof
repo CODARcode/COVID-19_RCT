@@ -1,4 +1,0 @@
-#time,event,comp,thread,uid,state,msg
-1595420880.3173790,sync_abs,cmgr.0002.hb,Thread-12,,,login1.summit.olcf.ornl.gov:10.134.0.31:1595420880.317074:1595420880.33304:ntp
-1595420880.3174150,init3,cmgr.0002.hb,Thread-12,cmgr.0002.hb,,/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login1.litan.018465.0002
-1595422306.6223037,term,cmgr.0002.hb,Thread-12,cmgr.0002.hb,,
