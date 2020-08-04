@@ -1,0 +1,12 @@
+#time,event,comp,thread,uid,state,msg
+1596544971.9069686,sync_abs,pmgr.0000,MainThread,,,login4.summit.olcf.ornl.gov:10.134.0.34:1596544971.9066193:1596544971.9675744:ntp
+1596544971.9074299,init1,pmgr.0000,MainThread,pmgr.0000,,/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login4.litan.018478.0005
+1596544971.9118333,component_init,pmgr.0000,Thread-4,,,
+1596544975.5835359,setup_done,pmgr.0000,MainThread,pmgr.0000,,
+1596544976.6899087,advance,pmgr.0000,MainThread,pilot.0000,NEW,
+1596544976.7284915,advance,pmgr.0000,MainThread,pilot.0000,PMGR_LAUNCHING_PENDING,
+1596544976.7288003,put,pmgr.0000,MainThread,pilot.0000,PMGR_LAUNCHING_PENDING,pmgr_launching_queue.put.0000
+1596544976.8300035,advance,pmgr.0000,Thread-11,pilot.0000,PMGR_LAUNCHING,
+1596544983.2891061,advance,pmgr.0000,Thread-11,pilot.0000,PMGR_ACTIVE_PENDING,
+1596549729.0747182,advance,pmgr.0000,Thread-9,pilot.0000,PMGR_ACTIVE,
+1596551122.9163866,advance,pmgr.0000,Thread-11,pilot.0000,CANCELED,

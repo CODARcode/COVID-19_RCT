@@ -1,0 +1,17 @@
+#time,event,comp,thread,uid,state,msg
+1596544973.9534371,sync_abs,pmgr_launching.0000,MainThread,,,login4.summit.olcf.ornl.gov:10.134.0.34:1596544973.9531138:1596544974.0140688:ntp
+1596544973.9547620,comp_start,pmgr_launching.0000,MainThread,pmgr_launching.0000,,
+#time,event,comp,thread,uid,state,msg
+1596544974.1677182,sync_abs,pmgr_launching.0000,MainThread,,,login4.summit.olcf.ornl.gov:10.134.0.34:1596544974.1676059:1596544974.228561:ntp
+1596544974.1677670,init1,pmgr_launching.0000,MainThread,pmgr_launching.0000,,/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login4.litan.018478.0005
+1596544974.2134380,component_init,pmgr_launching.0000,Thread-1,,,
+1596544976.8269641,get,pmgr_launching.0000,Thread-1,pilot.0000,PMGR_LAUNCHING_PENDING,
+1596544976.8270922,advance,pmgr_launching.0000,Thread-1,pilot.0000,PMGR_LAUNCHING,
+1596544977.8730240,staging_in_start,pmgr_launching.0000,Thread-1,pilot.0000,,
+1596544981.4521730,staging_in_stop,pmgr_launching.0000,Thread-1,pilot.0000,,
+1596544981.4522126,submission_start,pmgr_launching.0000,Thread-1,pilot.0000,,
+1596544983.2832839,submission_stop,pmgr_launching.0000,Thread-1,pilot.0000,,
+1596544983.2833312,advance,pmgr_launching.0000,Thread-1,pilot.0000,PMGR_ACTIVE_PENDING,
+1596551122.9095750,advance,pmgr_launching.0000,Thread-3,pilot.0000,CANCELED,
+1596551185.8145947,component_final,pmgr_launching.0000,Thread-4,,,
+1596551185.8146317,END,pmgr_launching.0000,Thread-4,,,
