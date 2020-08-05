@@ -1,0 +1,21 @@
+{
+    "base": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark",
+    "bulk_collection_size": 100,
+    "bulk_collection_time": 1.0,
+    "cmgr": "cmgr.0002",
+    "count": 1,
+    "db_poll_sleeptime": 1.0,
+    "dburl": "mongodb://litan:sccDg7PxE3UjhA5L@129.114.17.185:27017/rct-test",
+    "heartbeat": {
+        "addr_pub": "tcp://10.134.0.34:42931",
+        "addr_sub": "tcp://10.134.0.34:42411",
+        "interval": 1.0,
+        "timeout": 60.0
+    },
+    "kind": "umgr_staging_input",
+    "owner": "umgr.0000",
+    "path": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login4.litan.018478.0011",
+    "scheduler": "round_robin",
+    "sid": "re.session.login4.litan.018478.0011",
+    "uid": "umgr_staging_input.0000"
+}

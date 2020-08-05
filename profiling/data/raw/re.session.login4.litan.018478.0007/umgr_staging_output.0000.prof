@@ -1,0 +1,9 @@
+#time,event,comp,thread,uid,state,msg
+1596561337.4242051,sync_abs,umgr_staging_output.0000,MainThread,,,login4.summit.olcf.ornl.gov:10.134.0.34:1596561337.4236116:1596561337.4908416:ntp
+1596561337.4267063,comp_start,umgr_staging_output.0000,MainThread,umgr_staging_output.0000,,
+#time,event,comp,thread,uid,state,msg
+1596561337.7878594,sync_abs,umgr_staging_output.0000,MainThread,,,login4.summit.olcf.ornl.gov:10.134.0.34:1596561337.7875566:1596561337.8547866:ntp
+1596561337.7879946,init1,umgr_staging_output.0000,MainThread,umgr_staging_output.0000,,/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login4.litan.018478.0007
+1596561337.7958877,component_init,umgr_staging_output.0000,Thread-1,,,
+1596562647.9026904,component_final,umgr_staging_output.0000,Thread-3,,,
+1596562647.9027336,END,umgr_staging_output.0000,Thread-3,,,

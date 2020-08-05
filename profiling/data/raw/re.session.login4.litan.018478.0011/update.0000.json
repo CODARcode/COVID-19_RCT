@@ -1,0 +1,22 @@
+{
+    "base": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark",
+    "bulk_size": 1024,
+    "bulk_time": 1.0,
+    "client_sandbox": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark",
+    "cmgr": "cmgr.0000",
+    "count": 1,
+    "dburl": "mongodb://litan:sccDg7PxE3UjhA5L@129.114.17.185:27017/rct-test",
+    "default_dburl": "mongodb://rct:rct_test@two.radical-project.org/rct_test",
+    "heartbeat": {
+        "addr_pub": "tcp://10.134.0.34:44383",
+        "addr_sub": "tcp://10.134.0.34:46277",
+        "interval": 1.0,
+        "timeout": 60.0
+    },
+    "kind": "update",
+    "path": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login4.litan.018478.0011",
+    "record": null,
+    "session_base": "/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark",
+    "sid": "re.session.login4.litan.018478.0011",
+    "uid": "update.0000"
+}

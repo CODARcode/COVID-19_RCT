@@ -1,0 +1,8 @@
+#time,event,comp,thread,uid,state,msg
+1596615026.7273998,sync_abs,cmgr.0002,Thread-12,,,login4.summit.olcf.ornl.gov:10.134.0.34:1596615026.727084:1596615026.867878:ntp
+1596615026.7277007,init2,cmgr.0002,Thread-12,cmgr.0002,,/gpfs/alpine/csc299/scratch/litan/INCITE_benchmark/re.session.login4.litan.018478.0011
+1596615026.8526034,start_bridges_start,cmgr.0002,Thread-12,cmgr.0002,,
+1596615035.9071383,start_bridges_stop,cmgr.0002,Thread-12,cmgr.0002,,
+1596615035.9071791,start_components_start,cmgr.0002,Thread-12,cmgr.0002,,
+1596615044.5107474,start_components_stop,cmgr.0002,Thread-12,cmgr.0002,,
+1596620123.4816141,close,cmgr.0002,Thread-12,cmgr.0002,,
